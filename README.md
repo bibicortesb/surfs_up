@@ -18,7 +18,7 @@ For June the average temperature is 74.94°F in some cases less in some others m
 
 
 
-# December
+### December
 
 <img width="145" alt="Screen Shot 2023-02-22 at 21 44 28" src="https://user-images.githubusercontent.com/114015620/220816924-bf713f8f-4aa7-4c01-869c-0383e3b78e2b.png">
 
@@ -26,4 +26,4 @@ For December the average temperature is 71.04°F in some cases less in some othe
 
 
 ## Summary
-
+The temperature 
