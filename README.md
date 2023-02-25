@@ -61,4 +61,4 @@ What about precipitation? Additional queries were performed to find the precipit
 
 ## Summary
 
-The temperature 
+Through ETL process, data was analyzed from Oahu to decide whether it was viable to have an ice-cream shop. The temperature has proven to be stable all year long, the standard deviation does not have a drastic value from June (74°F) to Decemeber 71°F. Now, through data a smart decision can be made. Even precipitation was taken into account in the analysis. Deciding whether rain and temperature are key factors for customer's behavior is another idea for a project. 
